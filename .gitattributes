@@ -16,6 +16,7 @@ Assets/Facebook/**/*.h filter=lfs diff=lfs merge=lfs -text lockable
 Assets/Facebook/**/*.mm filter=lfs diff=lfs merge=lfs -text lockable
 Assets/Facebook/**/*.projmods filter=lfs diff=lfs merge=lfs -text lockable
 *.scene filter=lfs diff=lfs merge=lfs -text lockable
+*.unity filter=lfs diff=lfs merge=lfs -text lockable
 *.prefab filter=lfs diff=lfs merge=lfs -text lockable
 *.controller filter=lfs diff=lfs merge=lfs -text lockable
 *.asset filter=lfs diff=lfs merge=lfs -text lockable
