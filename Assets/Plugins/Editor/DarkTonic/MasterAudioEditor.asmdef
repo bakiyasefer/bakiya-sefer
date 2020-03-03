@@ -1,0 +1,15 @@
+{
+    "name": "MasterAudioEditor",
+    "references": [
+        "GUID:a8e193508babb415e818ae29d1d4a3e9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
