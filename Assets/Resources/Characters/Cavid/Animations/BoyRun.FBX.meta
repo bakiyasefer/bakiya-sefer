@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 0c1461218e7c0dc458b4596cc2871924
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CHARACTER005
+    100004: nHead
+    100006: nLCollarbone
+    100008: nLForearm
+    100010: nLLeg1
+    100012: nLLeg2
+    100014: nLLegAnkle
+    100016: nLPalm
+    100018: nLUpperarm
+    100020: nNeck1
+    100022: nNeck2
+    100024: nPelvis
+    100026: nRCollarbone
+    100028: nRForearm
+    100030: nRibcage
+    100032: nRLeg1
+    100034: nRLeg2
+    100036: nRLegAnkle
+    100038: nRPalm
+    100040: nRUpperarm
+    100042: nSpine1
+    100044: nSpine2
+    100046: CHARACTER004
+    100048: CHARACTER006
+    100050: n
+    100052: nLLegPlatform
+    100054: nRLegPlatform
+    100056: Particle View 001
+    100058: Bone041
+    100060: Bone042
+    100062: Bone043
+    100064: Bone044
+    100066: Bone045
+    100068: Bone046
+    100070: Bone047
+    100072: Bone047(mirrored)
+    100074: Bone048
+    100076: Bone048(mirrored)
+    100078: Bone049
+    100080: Bone049(mirrored)
+    100082: Bone050
+    100084: Bone050(mirrored)
+    100086: Bone051
+    100088: Bone051(mirrored)
+    100090: Bone052
+    100092: Bone052(mirrored)
+    100094: Bone053
+    100096: Bone053(mirrored)
+    100098: Bone054
+    100100: Bone054(mirrored)
+    100102: Bone055
+    100104: Bone055(mirrored)
+    100106: CHARACTER_RUNNER
+    100108: Circle012
+    100110: Circle016
+    100112: Star002
+    100114: Object197
+    100116: Bone019
+    100118: Bone020
+    100120: Bone021
+    100122: Bone022
+    100124: Bone023
+    100126: Bone024
+    100128: Bone024(mirrored)
+    100130: Bone025
+    100132: Bone025(mirrored)
+    100134: Bone026
+    100136: Bone026(mirrored)
+    100138: Bone027
+    100140: Bone027(mirrored)
+    100142: Bone028
+    100144: Bone028(mirrored)
+    100146: Bone029
+    100148: Bone029(mirrored)
+    100150: Bone030
+    100152: Bone030(mirrored)
+    100154: Bone031
+    100156: Bone031(mirrored)
+    100158: Bone032
+    100160: Bone032(mirrored)
+    100162: CHARACTER_CHASER
+    100164: Circle003
+    100166: Circle004
+    100168: Circle005
+    100170: Circle006
+    100172: Circle007
+    100174: Circle010
+    100176: Circle011
+    100178: Object198
+    100180: Star001
+    400000: //RootNode
+    400002: CHARACTER005
+    400004: nHead
+    400006: nLCollarbone
+    400008: nLForearm
+    400010: nLLeg1
+    400012: nLLeg2
+    400014: nLLegAnkle
+    400016: nLPalm
+    400018: nLUpperarm
+    400020: nNeck1
+    400022: nNeck2
+    400024: nPelvis
+    400026: nRCollarbone
+    400028: nRForearm
+    400030: nRibcage
+    400032: nRLeg1
+    400034: nRLeg2
+    400036: nRLegAnkle
+    400038: nRPalm
+    400040: nRUpperarm
+    400042: nSpine1
+    400044: nSpine2
+    400046: CHARACTER004
+    400048: CHARACTER006
+    400050: n
+    400052: nLLegPlatform
+    400054: nRLegPlatform
+    400056: Particle View 001
+    400058: Bone041
+    400060: Bone042
+    400062: Bone043
+    400064: Bone044
+    400066: Bone045
+    400068: Bone046
+    400070: Bone047
+    400072: Bone047(mirrored)
+    400074: Bone048
+    400076: Bone048(mirrored)
+    400078: Bone049
+    400080: Bone049(mirrored)
+    400082: Bone050
+    400084: Bone050(mirrored)
+    400086: Bone051
+    400088: Bone051(mirrored)
+    400090: Bone052
+    400092: Bone052(mirrored)
+    400094: Bone053
+    400096: Bone053(mirrored)
+    400098: Bone054
+    400100: Bone054(mirrored)
+    400102: Bone055
+    400104: Bone055(mirrored)
+    400106: CHARACTER_RUNNER
+    400108: Circle012
+    400110: Circle016
+    400112: Star002
+    400114: Object197
+    400116: Bone019
+    400118: Bone020
+    400120: Bone021
+    400122: Bone022
+    400124: Bone023
+    400126: Bone024
+    400128: Bone024(mirrored)
+    400130: Bone025
+    400132: Bone025(mirrored)
+    400134: Bone026
+    400136: Bone026(mirrored)
+    400138: Bone027
+    400140: Bone027(mirrored)
+    400142: Bone028
+    400144: Bone028(mirrored)
+    400146: Bone029
+    400148: Bone029(mirrored)
+    400150: Bone030
+    400152: Bone030(mirrored)
+    400154: Bone031
+    400156: Bone031(mirrored)
+    400158: Bone032
+    400160: Bone032(mirrored)
+    400162: CHARACTER_CHASER
+    400164: Circle003
+    400166: Circle004
+    400168: Circle005
+    400170: Circle006
+    400172: Circle007
+    400174: Circle010
+    400176: Circle011
+    400178: Object198
+    400180: Star001
+    2300000: nHead
+    2300002: nLCollarbone
+    2300004: nLForearm
+    2300006: nLLeg1
+    2300008: nLLeg2
+    2300010: nLLegAnkle
+    2300012: nLPalm
+    2300014: nLUpperarm
+    2300016: nNeck1
+    2300018: nNeck2
+    2300020: nPelvis
+    2300022: nRCollarbone
+    2300024: nRForearm
+    2300026: nRibcage
+    2300028: nRLeg1
+    2300030: nRLeg2
+    2300032: nRLegAnkle
+    2300034: nRPalm
+    2300036: nRUpperarm
+    2300038: nSpine1
+    2300040: nSpine2
+    2300042: Object197
+    2300044: Object198
+    3300000: nHead
+    3300002: nLCollarbone
+    3300004: nLForearm
+    3300006: nLLeg1
+    3300008: nLLeg2
+    3300010: nLLegAnkle
+    3300012: nLPalm
+    3300014: nLUpperarm
+    3300016: nNeck1
+    3300018: nNeck2
+    3300020: nPelvis
+    3300022: nRCollarbone
+    3300024: nRForearm
+    3300026: nRibcage
+    3300028: nRLeg1
+    3300030: nRLeg2
+    3300032: nRLegAnkle
+    3300034: nRPalm
+    3300036: nRUpperarm
+    3300038: nSpine1
+    3300040: nSpine2
+    3300042: Object197
+    3300044: Object198
+    4300000: nPelvis
+    4300002: nSpine1
+    4300004: nSpine2
+    4300006: nRibcage
+    4300008: nLCollarbone
+    4300010: nLUpperarm
+    4300012: nLForearm
+    4300014: nLPalm
+    4300016: nRCollarbone
+    4300018: nRUpperarm
+    4300020: nRForearm
+    4300022: nRPalm
+    4300024: nNeck1
+    4300026: nNeck2
+    4300028: nHead
+    4300030: nLLeg1
+    4300032: nLLeg2
+    4300034: nLLegAnkle
+    4300036: nRLeg1
+    4300038: nRLeg2
+    4300040: nRLegAnkle
+    4300042: CHARACTER005
+    4300044: CHARACTER004
+    4300046: CHARACTER006
+    4300048: CHARACTER_RUNNER
+    4300050: Object197
+    4300052: CHARACTER_CHASER
+    4300054: Object198
+    7400000: boy_run_0
+    7400002: boy_run //// nPelvis
+    7400004: boy_run //// CHARACTER006
+    7400006: boy_run //// nSpine1
+    7400008: boy_run //// nSpine2
+    7400010: boy_run //// nRibcage
+    7400012: boy_run //// nLCollarbone
+    7400014: boy_run //// nLUpperarm
+    7400016: boy_run //// nLForearm
+    7400018: boy_run //// nLPalm
+    7400020: boy_run //// nRCollarbone
+    7400022: boy_run //// nRUpperarm
+    7400024: boy_run //// nRForearm
+    7400026: boy_run //// nRPalm
+    7400028: boy_run //// nNeck1
+    7400030: boy_run //// nNeck2
+    7400032: boy_run //// nHead
+    7400034: boy_run //// nLLeg1
+    7400036: boy_run //// nLLeg2
+    7400038: boy_run //// nLLegAnkle
+    7400040: boy_run //// nRLeg1
+    7400042: boy_run //// nRLeg2
+    7400044: boy_run //// nRLegAnkle
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: CHARACTER006
+    11100004: nHead
+    11100006: nLCollarbone
+    11100008: nLForearm
+    11100010: nLLeg1
+    11100012: nLLeg2
+    11100014: nLLegAnkle
+    11100016: nLPalm
+    11100018: nLUpperarm
+    11100020: nNeck1
+    11100022: nNeck2
+    11100024: nPelvis
+    11100026: nRCollarbone
+    11100028: nRForearm
+    11100030: nRibcage
+    11100032: nRLeg1
+    11100034: nRLeg2
+    11100036: nRLegAnkle
+    11100038: nRPalm
+    11100040: nRUpperarm
+    11100042: nSpine1
+    11100044: nSpine2
+    13700000: CHARACTER005
+    13700002: CHARACTER004
+    13700004: CHARACTER006
+    13700006: CHARACTER_RUNNER
+    13700008: CHARACTER_CHASER
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: boy_run_0
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHARACTER005
+        weight: 1
+      - path: nPelvis
+        weight: 1
+      - path: nPelvis/nLLeg1
+        weight: 1
+      - path: nPelvis/nLLeg1/nLLeg2
+        weight: 1
+      - path: nPelvis/nLLeg1/nLLeg2/nLLegAnkle
+        weight: 1
+      - path: nPelvis/nRLeg1
+        weight: 1
+      - path: nPelvis/nRLeg1/nRLeg2
+        weight: 1
+      - path: nPelvis/nRLeg1/nRLeg2/nRLegAnkle
+        weight: 1
+      - path: nPelvis/nSpine1
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nLCollarbone
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nLCollarbone/nLUpperarm
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nLCollarbone/nLUpperarm/nLForearm
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nLCollarbone/nLUpperarm/nLForearm/nLPalm
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nNeck1
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nNeck1/nNeck2
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nNeck1/nNeck2/nHead
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nRCollarbone
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nRCollarbone/nRUpperarm
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nRCollarbone/nRUpperarm/nRForearm
+        weight: 1
+      - path: nPelvis/nSpine1/nSpine2/nRibcage/nRCollarbone/nRUpperarm/nRForearm/nRPalm
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 5f489e6bb33bbaf41816133eb63a0e38
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone041
+    100002: Bone042
+    100004: Bone043
+    100006: Bone044
+    100008: Bone045
+    100010: Bone046
+    100012: Bone047
+    100014: Bone047(mirrored)
+    100016: Bone048
+    100018: Bone048(mirrored)
+    100020: Bone049
+    100022: Bone049(mirrored)
+    100024: Bone050
+    100026: Bone050(mirrored)
+    100028: Bone051
+    100030: Bone051(mirrored)
+    100032: Bone052
+    100034: Bone052(mirrored)
+    100036: Bone053
+    100038: Bone053(mirrored)
+    100040: Bone054
+    100042: Bone054(mirrored)
+    100044: Bone055
+    100046: Bone055(mirrored)
+    100048: //RootNode
+    100050: CHARACTER_RUNNER
+    100052: Circle012
+    100054: Circle016
+    100056: Star002
+    400000: Bone041
+    400002: Bone042
+    400004: Bone043
+    400006: Bone044
+    400008: Bone045
+    400010: Bone046
+    400012: Bone047
+    400014: Bone047(mirrored)
+    400016: Bone048
+    400018: Bone048(mirrored)
+    400020: Bone049
+    400022: Bone049(mirrored)
+    400024: Bone050
+    400026: Bone050(mirrored)
+    400028: Bone051
+    400030: Bone051(mirrored)
+    400032: Bone052
+    400034: Bone052(mirrored)
+    400036: Bone053
+    400038: Bone053(mirrored)
+    400040: Bone054
+    400042: Bone054(mirrored)
+    400044: Bone055
+    400046: Bone055(mirrored)
+    400048: //RootNode
+    400050: CHARACTER_RUNNER
+    400052: Circle012
+    400054: Circle016
+    400056: Star002
+    4300000: CHARACTER_RUNNER
+    7400000: boy_jump_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CHARACTER_RUNNER
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: boy_jump_0
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 110
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHARACTER_RUNNER
+        weight: 1
+      - path: Star002
+        weight: 1
+      - path: Star002/Circle016
+        weight: 1
+      - path: Star002/Circle016/Circle012
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone044/Bone045/Bone046
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052/Bone053/Bone054/Bone055
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)/Bone053(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)/Bone053(mirrored)/Bone054(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)/Bone053(mirrored)/Bone054(mirrored)/Bone055(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047/Bone048
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047(mirrored)/Bone048(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047(mirrored)/Bone048(mirrored)/Bone049(mirrored)
+        weight: 1
+      - path: Star002/Circle016/Circle012/Bone041/Bone047(mirrored)/Bone048(mirrored)/Bone049(mirrored)/Bone050(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

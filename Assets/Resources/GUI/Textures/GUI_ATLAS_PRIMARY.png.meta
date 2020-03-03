@@ -1,0 +1,2281 @@
+fileFormatVersion: 2
+guid: 6a1ed072177172743a6fc7ad79dcbbda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GUI_ATLAS_PRIMARY_0
+  - first:
+      213: 21300002
+    second: GUI_ATLAS_PRIMARY_1
+  - first:
+      213: 21300004
+    second: GUI_MENU_SHOP_BTN
+  - first:
+      213: 21300006
+    second: GUI_MENU_SHOP_BTN_PRESSED
+  - first:
+      213: 21300008
+    second: GUI_ATLAS_PRIMARY_4
+  - first:
+      213: 21300010
+    second: GUI_ATLAS_PRIMARY_5
+  - first:
+      213: 21300012
+    second: GUI_ATLAS_PRIMARY_6
+  - first:
+      213: 21300014
+    second: GUI_ATLAS_PRIMARY_7
+  - first:
+      213: 21300016
+    second: GUI_ATLAS_PRIMARY_8
+  - first:
+      213: 21300018
+    second: GUI_ATLAS_PRIMARY_9
+  - first:
+      213: 21300020
+    second: GUI_ATLAS_PRIMARY_10
+  - first:
+      213: 21300022
+    second: GUI_ATLAS_PRIMARY_11
+  - first:
+      213: 21300024
+    second: GUI_ATLAS_PRIMARY_12
+  - first:
+      213: 21300026
+    second: GUI_ATLAS_PRIMARY_13
+  - first:
+      213: 21300028
+    second: GUI_ATLAS_PRIMARY_14
+  - first:
+      213: 21300030
+    second: GUI_ATLAS_PRIMARY_15
+  - first:
+      213: 21300032
+    second: GUI_ATLAS_PRIMARY_16
+  - first:
+      213: 21300034
+    second: GUI_ATLAS_PRIMARY_17
+  - first:
+      213: 21300036
+    second: GUI_ATLAS_PRIMARY_18
+  - first:
+      213: 21300038
+    second: GUI_ATLAS_PRIMARY_19
+  - first:
+      213: 21300040
+    second: GUI_ATLAS_PRIMARY_20
+  - first:
+      213: 21300042
+    second: GUI_ATLAS_PRIMARY_21
+  - first:
+      213: 21300044
+    second: GUI_ATLAS_PRIMARY_22
+  - first:
+      213: 21300046
+    second: GUI_ATLAS_PRIMARY_23
+  - first:
+      213: 21300048
+    second: GUI_ATLAS_PRIMARY_24
+  - first:
+      213: 21300050
+    second: GUI_ATLAS_PRIMARY_25
+  - first:
+      213: 21300052
+    second: GUI_ATLAS_PRIMARY_26
+  - first:
+      213: 21300054
+    second: GUI_ATLAS_PRIMARY_27
+  - first:
+      213: 21300056
+    second: GUI_ATLAS_PRIMARY_28
+  - first:
+      213: 21300058
+    second: GUI_ATLAS_PRIMARY_29
+  - first:
+      213: 21300060
+    second: GUI_ATLAS_PRIMARY_30
+  - first:
+      213: 21300062
+    second: GUI_ATLAS_PRIMARY_31
+  - first:
+      213: 21300064
+    second: GUI_ATLAS_PRIMARY_32
+  - first:
+      213: 21300066
+    second: GUI_ATLAS_PRIMARY_33
+  - first:
+      213: 21300068
+    second: GUI_ATLAS_PRIMARY_34
+  - first:
+      213: 21300070
+    second: GUI_ATLAS_PRIMARY_35
+  - first:
+      213: 21300072
+    second: GUI_ATLAS_PRIMARY_36
+  - first:
+      213: 21300074
+    second: GUI_ATLAS_PRIMARY_37
+  - first:
+      213: 21300076
+    second: GUI_ATLAS_PRIMARY_38
+  - first:
+      213: 21300078
+    second: GUI_ATLAS_PRIMARY_39
+  - first:
+      213: 21300080
+    second: GUI_ATLAS_PRIMARY_40
+  - first:
+      213: 21300082
+    second: GUI_ATLAS_PRIMARY_41
+  - first:
+      213: 21300084
+    second: GUI_ATLAS_PRIMARY_42
+  - first:
+      213: 21300086
+    second: GUI_ATLAS_PRIMARY_43
+  - first:
+      213: 21300088
+    second: GUI_ATLAS_PRIMARY_44
+  - first:
+      213: 21300090
+    second: GUI_ATLAS_PRIMARY_45
+  - first:
+      213: 21300092
+    second: GUI_ATLAS_PRIMARY_46
+  - first:
+      213: 21300094
+    second: GUI_ATLAS_PRIMARY_47
+  - first:
+      213: 21300096
+    second: GUI_ATLAS_PRIMARY_48
+  - first:
+      213: 21300098
+    second: GUI_ATLAS_PRIMARY_49
+  - first:
+      213: 21300100
+    second: GUI_ATLAS_PRIMARY_50
+  - first:
+      213: 21300102
+    second: GUI_ATLAS_PRIMARY_51
+  - first:
+      213: 21300104
+    second: GUI_ATLAS_PRIMARY_52
+  - first:
+      213: 21300106
+    second: GUI_ATLAS_PRIMARY_53
+  - first:
+      213: 21300108
+    second: GUI_ATLAS_PRIMARY_55
+  - first:
+      213: 21300110
+    second: GUI_ATLAS_PRIMARY_56
+  - first:
+      213: 21300112
+    second: GUI_ATLAS_PRIMARY_57
+  - first:
+      213: 21300114
+    second: GUI_ATLAS_PRIMARY_58
+  - first:
+      213: 21300116
+    second: GUI_ATLAS_PRIMARY_59
+  - first:
+      213: 21300118
+    second: GUI_ATLAS_PRIMARY_60
+  - first:
+      213: 21300120
+    second: GUI_ATLAS_PRIMARY_61
+  - first:
+      213: 21300122
+    second: GUI_ATLAS_PRIMARY_62
+  - first:
+      213: 21300124
+    second: GUI_ATLAS_PRIMARY_63
+  - first:
+      213: 21300126
+    second: GUI_ATLAS_PRIMARY_64
+  - first:
+      213: 21300128
+    second: GUI_ATLAS_PRIMARY_65
+  - first:
+      213: 21300130
+    second: GUI_ATLAS_PRIMARY_66
+  - first:
+      213: 21300132
+    second: GUI_ATLAS_PRIMARY_67
+  - first:
+      213: 21300134
+    second: GUI_ATLAS_PRIMARY_68
+  - first:
+      213: 21300136
+    second: GUI_ATLAS_PRIMARY_68
+  - first:
+      213: 21300138
+    second: GUI_ATLAS_PRIMARY_69
+  - first:
+      213: 21300140
+    second: GUI_ATLAS_PRIMARY_70
+  - first:
+      213: 21300142
+    second: GUI_ATLAS_PRIMARY_71
+  - first:
+      213: 21300144
+    second: GUI_ATLAS_PRIMARY_72
+  - first:
+      213: 21300146
+    second: GUI_ATLAS_PRIMARY_73
+  - first:
+      213: 21300148
+    second: GUI_ATLAS_PRIMARY_74
+  - first:
+      213: 21300150
+    second: GUI_ATLAS_PRIMARY_74
+  - first:
+      213: 21300152
+    second: GUI_ATLAS_PRIMARY_72
+  - first:
+      213: 21300154
+    second: GUI_ATLAS_PRIMARY_73
+  - first:
+      213: 21300156
+    second: GUI_ATLAS_PRIMARY_74
+  - first:
+      213: 21300158
+    second: GUI_ATLAS_PRIMARY_75
+  - first:
+      213: 21300160
+    second: GUI_ATLAS_PRIMARY_76
+  - first:
+      213: 21300162
+    second: GUI_ATLAS_PRIMARY_77
+  - first:
+      213: 21300164
+    second: GUI_ATLAS_PRIMARY_78
+  - first:
+      213: 21300166
+    second: GUI_ATLAS_PRIMARY_79
+  - first:
+      213: 21300168
+    second: GUI_ATLAS_PRIMARY_80
+  - first:
+      213: 21300170
+    second: GUI_ATLAS_PRIMARY_81
+  - first:
+      213: 21300172
+    second: GUI_ATLAS_PRIMARY_82
+  - first:
+      213: 21300174
+    second: GUI_ATLAS_PRIMARY_83
+  - first:
+      213: 21300176
+    second: GUI_ATLAS_PRIMARY_84
+  - first:
+      213: 21300178
+    second: GUI_ATLAS_PRIMARY_85
+  - first:
+      213: 21300180
+    second: GUI_ATLAS_PRIMARY_86
+  - first:
+      213: 21300182
+    second: GUI_ATLAS_PRIMARY_87
+  - first:
+      213: 21300184
+    second: GUI_ATLAS_PRIMARY_88
+  - first:
+      213: 21300186
+    second: GUI_ATLAS_PRIMARY_89
+  - first:
+      213: 21300188
+    second: GUI_ATLAS_PRIMARY_90
+  - first:
+      213: 21300190
+    second: GUI_ATLAS_PRIMARY_91
+  - first:
+      213: 21300192
+    second: GUI_ATLAS_PRIMARY_92
+  - first:
+      213: 21300194
+    second: GUI_ATLAS_PRIMARY_93
+  - first:
+      213: 21300196
+    second: GUI_ATLAS_PRIMARY_94
+  - first:
+      213: 21300198
+    second: GUI_ATLAS_PRIMARY_95
+  - first:
+      213: 21300200
+    second: GUI_ATLAS_PRIMARY_95
+  - first:
+      213: 21300202
+    second: GUI_ATLAS_PRIMARY_80
+  - first:
+      213: 21300204
+    second: GUI_ATLAS_PRIMARY_81
+  - first:
+      213: 21300206
+    second: GUI_ATLAS_PRIMARY_84
+  - first:
+      213: 21300208
+    second: GUI_ATLAS_PRIMARY_86
+  - first:
+      213: 21300210
+    second: GUI_ATLAS_PRIMARY_2
+  - first:
+      213: 21300212
+    second: GUI_ATLAS_PRIMARY_3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_MENU_SHOP_BTN
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_MENU_SHOP_BTN_PRESSED
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1802
+        width: 913
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_5
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1678
+        width: 158
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_6
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1568
+        width: 159
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 101, z: 64, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_11
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 841
+        width: 184
+        height: 1192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_21
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1206
+        width: 279
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 140, y: 133, z: 138, w: 130}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_23
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1017
+        width: 455
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_29
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_38
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 612
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 60, z: 52, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_39
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 573
+        width: 248
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 186, y: 0, z: 53, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_40
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 573
+        width: 243
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 169, y: 0, z: 53, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_41
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 573
+        width: 247
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 185, y: 0, z: 52, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_42
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 495
+        width: 185
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 127, y: 0, z: 38, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_43
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 469
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 48, z: 56, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_44
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 469
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 53, y: 48, z: 58, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_45
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 469
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 52, y: 48, z: 56, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_46
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 469
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 56, y: 48, z: 52, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 394
+        width: 185
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 127, y: 0, z: 38, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 209
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 164, y: 0, z: 90, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 209
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 210
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 164, y: 0, z: 90, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_53
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 329
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_55
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 209
+        width: 296
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 0, z: 45, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 29
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 164, y: 0, z: 90, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 29
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 164, y: 0, z: 75, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_58
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_59
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_60
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_61
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_62
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_63
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_64
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 127
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_65
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 122
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_66
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 29
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_67
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 29
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_68
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 451
+        width: 158
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 98, y: 0, z: 43, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_68
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 563
+        width: 240
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 187, y: 0, z: 48, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 559
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 559
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_71
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1022
+        width: 199
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_72
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 831
+        width: 200
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_73
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 447
+        width: 158
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 106, y: 0, z: 44, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_74
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 329
+        width: 296
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 0, z: 45, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_74
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1520
+        width: 120
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_72
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 329
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_78
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 395
+        width: 190
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 123, y: 0, z: 61, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_80
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 389
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 0, z: 33, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_81
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 389
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 35, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_86
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 497
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 0, z: 34, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_92
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1567
+        width: 162
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 69, y: 65, z: 76, w: 64}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_89
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 389
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 36, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_90
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 388
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 0, z: 34, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_79
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 729
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_80
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 743
+        width: 134
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_81
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 726
+        width: 127
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_82
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 737
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_84
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 886
+        width: 147
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_84
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 727
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_85
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 734
+        width: 145
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_86
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1489
+        width: 281
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 138, y: 130, z: 137, w: 129}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_2
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1054
+        width: 125
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_3
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 896
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_ATLAS_PRIMARY_12
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 896
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

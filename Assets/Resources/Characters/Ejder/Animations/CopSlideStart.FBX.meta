@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 9a446ce859397754c96c5e360713f3ef
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Circle011
+    100002: //RootNode
+    100004: Rectangle003
+    100006: Bone019
+    100008: Bone020
+    100010: Bone021
+    100012: Bone022
+    100014: Bone023
+    100016: Bone024
+    100018: Bone024(mirrored)
+    100020: Bone025
+    100022: Bone025(mirrored)
+    100024: Bone026
+    100026: Bone026(mirrored)
+    100028: Bone027
+    100030: Bone027(mirrored)
+    100032: Bone028
+    100034: Bone028(mirrored)
+    100036: Bone029
+    100038: Bone029(mirrored)
+    100040: Bone030
+    100042: Bone030(mirrored)
+    100044: Bone031
+    100046: Bone031(mirrored)
+    100048: Bone032
+    100050: Bone032(mirrored)
+    100052: CHARACTER_CHASER
+    100054: Circle005
+    100056: Circle006
+    100058: Circle007
+    100060: Circle010
+    100062: Object198
+    100064: Star001
+    400000: Circle011
+    400002: //RootNode
+    400004: Rectangle003
+    400006: Bone019
+    400008: Bone020
+    400010: Bone021
+    400012: Bone022
+    400014: Bone023
+    400016: Bone024
+    400018: Bone024(mirrored)
+    400020: Bone025
+    400022: Bone025(mirrored)
+    400024: Bone026
+    400026: Bone026(mirrored)
+    400028: Bone027
+    400030: Bone027(mirrored)
+    400032: Bone028
+    400034: Bone028(mirrored)
+    400036: Bone029
+    400038: Bone029(mirrored)
+    400040: Bone030
+    400042: Bone030(mirrored)
+    400044: Bone031
+    400046: Bone031(mirrored)
+    400048: Bone032
+    400050: Bone032(mirrored)
+    400052: CHARACTER_CHASER
+    400054: Circle005
+    400056: Circle006
+    400058: Circle007
+    400060: Circle010
+    400062: Object198
+    400064: Star001
+    2300000: Object198
+    3300000: Object198
+    4300000: CHARACTER_CHASER
+    4300002: Object198
+    7400000: cop_slide_start
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CHARACTER_CHASER
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cop_slide_start
+      takeName: Take 001
+      firstFrame: 236
+      lastFrame: 246.000031
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle011
+        weight: 1
+      - path: Circle011/Rectangle003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

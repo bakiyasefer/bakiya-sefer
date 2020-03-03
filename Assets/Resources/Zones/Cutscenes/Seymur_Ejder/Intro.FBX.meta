@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: c1120e4d4620030469d63340b0c6e332
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone019
+    100004: Bone020
+    100006: Bone021
+    100008: Bone022
+    100010: Bone023
+    100012: Bone024
+    100014: Bone024(mirrored)
+    100016: Bone025
+    100018: Bone025(mirrored)
+    100020: Bone026
+    100022: Bone026(mirrored)
+    100024: Bone027
+    100026: Bone027(mirrored)
+    100028: Bone028
+    100030: Bone028(mirrored)
+    100032: Bone029
+    100034: Bone029(mirrored)
+    100036: Bone030
+    100038: Bone030(mirrored)
+    100040: Bone031
+    100042: Bone031(mirrored)
+    100044: Bone032
+    100046: Bone032(mirrored)
+    100048: Bone034
+    100050: Bone034(mirrored)
+    100052: Bone035
+    100054: Bone035(mirrored)
+    100056: Bone036
+    100058: Bone036(mirrored)
+    100060: Bone038
+    100062: Bone038(mirrored)
+    100064: Bone039
+    100066: Bone039(mirrored)
+    100068: Bone040
+    100070: Bone040(mirrored)
+    100072: Bone041
+    100074: Bone042
+    100076: Bone043
+    100078: Bone044
+    100080: Bone045
+    100082: Bone046
+    100084: Bone047
+    100086: Bone047(mirrored)
+    100088: Bone048
+    100090: Bone048(mirrored)
+    100092: Bone049
+    100094: Bone049(mirrored)
+    100096: Bone050
+    100098: Bone050(mirrored)
+    100100: Bone051
+    100102: Bone051(mirrored)
+    100104: Bone052
+    100106: Bone052(mirrored)
+    100108: Bone053
+    100110: Bone053(mirrored)
+    100112: Bone054
+    100114: Bone054(mirrored)
+    100116: Bone055
+    100118: Bone055(mirrored)
+    100120: BUS_01_7_071
+    100122: BUS_02_009
+    100124: CAMERA_VERTICAL
+    100126: CAMERA_VERTICAL.Target
+    100128: CAR_02_4_092
+    100130: CAR_03_4_092
+    100132: CAR_SLOPE_01_012
+    100134: CHARACTER_CHASER
+    100136: CHARACTER_RUNNER
+    100138: Circle003
+    100140: Circle004
+    100142: Circle005
+    100144: Circle006
+    100146: Circle007
+    100148: Circle010
+    100150: Circle011
+    100152: Circle012
+    100154: Circle016
+    100156: Circle024
+    100158: Circle025
+    100160: Object173
+    100162: Object177
+    100164: Object178
+    100166: Object183
+    100168: Object184
+    100170: Object193
+    100172: Object196
+    100174: Object197
+    100176: Object198
+    100178: Plane010
+    100180: Plane011
+    100182: Rectangle006
+    100184: Star001
+    100186: Star002
+    100188: Bone034(mirrored)001
+    100190: Bone035(mirrored)001
+    100192: Bone036(mirrored)001
+    100194: Bone038(mirrored)001
+    100196: Bone039(mirrored)001
+    100198: Bone040(mirrored)001
+    100200: Bone056
+    100202: Bone057
+    100204: Bone058
+    100206: Bone059
+    100208: Bone060
+    100210: Bone061
+    100212: Circle023
+    100214: Dummy018
+    100216: Particle View 001
+    100218: CAMERA_VERTICAL000
+    100220: CAMERA_VERTICAL000.Target
+    100222: CAMERA_VERTICAL001
+    100224: CAMERA_VERTICAL001.Target
+    100226: CAMERA_VERTICAL002
+    100228: CAMERA_VERTICAL002.Target
+    100230: Dummy019
+    100232: Dummy020
+    100234: Dummy021
+    100236: CAMERA_0_NODE
+    100238: EJDER
+    100240: EJDER_NEWSPAPER
+    100242: EJDER_SHADOW
+    100244: ORIGIN
+    100246: RUNNER
+    100248: RUNNER_SHADOW
+    100250: VRAY_CAMERA
+    100252: BOOTH
+    100254: CAR
+    100256: FLYING_NEWSPAPER
+    100258: INTRO_STATIC_GEOMETRY
+    100260: PASS
+    100262: ROCK_1
+    100264: ROCK_2
+    100266: SKY
+    400000: //RootNode
+    400002: Bone019
+    400004: Bone020
+    400006: Bone021
+    400008: Bone022
+    400010: Bone023
+    400012: Bone024
+    400014: Bone024(mirrored)
+    400016: Bone025
+    400018: Bone025(mirrored)
+    400020: Bone026
+    400022: Bone026(mirrored)
+    400024: Bone027
+    400026: Bone027(mirrored)
+    400028: Bone028
+    400030: Bone028(mirrored)
+    400032: Bone029
+    400034: Bone029(mirrored)
+    400036: Bone030
+    400038: Bone030(mirrored)
+    400040: Bone031
+    400042: Bone031(mirrored)
+    400044: Bone032
+    400046: Bone032(mirrored)
+    400048: Bone034
+    400050: Bone034(mirrored)
+    400052: Bone035
+    400054: Bone035(mirrored)
+    400056: Bone036
+    400058: Bone036(mirrored)
+    400060: Bone038
+    400062: Bone038(mirrored)
+    400064: Bone039
+    400066: Bone039(mirrored)
+    400068: Bone040
+    400070: Bone040(mirrored)
+    400072: Bone041
+    400074: Bone042
+    400076: Bone043
+    400078: Bone044
+    400080: Bone045
+    400082: Bone046
+    400084: Bone047
+    400086: Bone047(mirrored)
+    400088: Bone048
+    400090: Bone048(mirrored)
+    400092: Bone049
+    400094: Bone049(mirrored)
+    400096: Bone050
+    400098: Bone050(mirrored)
+    400100: Bone051
+    400102: Bone051(mirrored)
+    400104: Bone052
+    400106: Bone052(mirrored)
+    400108: Bone053
+    400110: Bone053(mirrored)
+    400112: Bone054
+    400114: Bone054(mirrored)
+    400116: Bone055
+    400118: Bone055(mirrored)
+    400120: BUS_01_7_071
+    400122: BUS_02_009
+    400124: CAMERA_VERTICAL
+    400126: CAMERA_VERTICAL.Target
+    400128: CAR_02_4_092
+    400130: CAR_03_4_092
+    400132: CAR_SLOPE_01_012
+    400134: CHARACTER_CHASER
+    400136: CHARACTER_RUNNER
+    400138: Circle003
+    400140: Circle004
+    400142: Circle005
+    400144: Circle006
+    400146: Circle007
+    400148: Circle010
+    400150: Circle011
+    400152: Circle012
+    400154: Circle016
+    400156: Circle024
+    400158: Circle025
+    400160: Object173
+    400162: Object177
+    400164: Object178
+    400166: Object183
+    400168: Object184
+    400170: Object193
+    400172: Object196
+    400174: Object197
+    400176: Object198
+    400178: Plane010
+    400180: Plane011
+    400182: Rectangle006
+    400184: Star001
+    400186: Star002
+    400188: Bone034(mirrored)001
+    400190: Bone035(mirrored)001
+    400192: Bone036(mirrored)001
+    400194: Bone038(mirrored)001
+    400196: Bone039(mirrored)001
+    400198: Bone040(mirrored)001
+    400200: Bone056
+    400202: Bone057
+    400204: Bone058
+    400206: Bone059
+    400208: Bone060
+    400210: Bone061
+    400212: Circle023
+    400214: Dummy018
+    400216: Particle View 001
+    400218: CAMERA_VERTICAL000
+    400220: CAMERA_VERTICAL000.Target
+    400222: CAMERA_VERTICAL001
+    400224: CAMERA_VERTICAL001.Target
+    400226: CAMERA_VERTICAL002
+    400228: CAMERA_VERTICAL002.Target
+    400230: Dummy019
+    400232: Dummy020
+    400234: Dummy021
+    400236: CAMERA_0_NODE
+    400238: EJDER
+    400240: EJDER_NEWSPAPER
+    400242: EJDER_SHADOW
+    400244: ORIGIN
+    400246: RUNNER
+    400248: RUNNER_SHADOW
+    400250: VRAY_CAMERA
+    400252: BOOTH
+    400254: CAR
+    400256: FLYING_NEWSPAPER
+    400258: INTRO_STATIC_GEOMETRY
+    400260: PASS
+    400262: ROCK_1
+    400264: ROCK_2
+    400266: SKY
+    2300000: BUS_01_7_071
+    2300002: BUS_02_009
+    2300004: CAR_02_4_092
+    2300006: CAR_03_4_092
+    2300008: CAR_SLOPE_01_012
+    2300010: Object173
+    2300012: Object177
+    2300014: Object178
+    2300016: Object183
+    2300018: Object184
+    2300020: Object193
+    2300022: Object196
+    2300024: Object197
+    2300026: Object198
+    2300028: Plane011
+    2300030: EJDER_SHADOW
+    2300032: RUNNER_SHADOW
+    2300034: BOOTH
+    2300036: CAR
+    2300038: INTRO_STATIC_GEOMETRY
+    2300040: PASS
+    2300042: ROCK_1
+    2300044: ROCK_2
+    2300046: SKY
+    3300000: BUS_01_7_071
+    3300002: BUS_02_009
+    3300004: CAR_02_4_092
+    3300006: CAR_03_4_092
+    3300008: CAR_SLOPE_01_012
+    3300010: Object173
+    3300012: Object177
+    3300014: Object178
+    3300016: Object183
+    3300018: Object184
+    3300020: Object193
+    3300022: Object196
+    3300024: Object197
+    3300026: Object198
+    3300028: Plane011
+    3300030: EJDER_SHADOW
+    3300032: RUNNER_SHADOW
+    3300034: BOOTH
+    3300036: CAR
+    3300038: INTRO_STATIC_GEOMETRY
+    3300040: PASS
+    3300042: ROCK_1
+    3300044: ROCK_2
+    3300046: SKY
+    4300000: CHARACTER_RUNNER
+    4300002: CHARACTER_CHASER
+    4300004: Plane010
+    4300006: Plane011
+    4300008: Object198
+    4300010: Object197
+    4300012: CAR_SLOPE_01_012
+    4300014: CAR_02_4_092
+    4300016: Object184
+    4300018: CAR_03_4_092
+    4300020: BUS_01_7_071
+    4300022: Object183
+    4300024: Object178
+    4300026: Object177
+    4300028: Object173
+    4300030: BUS_02_009
+    4300032: Object196
+    4300034: Object193
+    4300036: RUNNER
+    4300038: EJDER
+    4300040: EJDER_NEWSPAPER
+    4300042: EJDER_SHADOW
+    4300044: RUNNER_SHADOW
+    4300046: INTRO_STATIC_GEOMETRY
+    4300048: PASS
+    4300050: BOOTH
+    4300052: ROCK_2
+    4300054: ROCK_1
+    4300056: CAR
+    4300058: FLYING_NEWSPAPER
+    4300060: SKY
+    7400000: Intro
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CHARACTER_CHASER
+    13700002: CHARACTER_RUNNER
+    13700004: Plane010
+    13700006: Plane011
+    13700008: EJDER
+    13700010: EJDER_NEWSPAPER
+    13700012: RUNNER
+    13700014: FLYING_NEWSPAPER
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .300000012
+    animationPositionError: .300000012
+    animationScaleError: .300000012
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Intro
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 850
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHARACTER_CHASER
+        weight: 1
+      - path: CHARACTER_RUNNER
+        weight: 1
+      - path: Circle025
+        weight: 1
+      - path: Circle025/Circle024
+        weight: 1
+      - path: Circle025/Circle024/BUS_01_7_071
+        weight: 1
+      - path: Circle025/Circle024/BUS_02_009
+        weight: 1
+      - path: Circle025/Circle024/CAMERA_VERTICAL
+        weight: 1
+      - path: Circle025/Circle024/CAMERA_VERTICAL/Dummy018
+        weight: 1
+      - path: Circle025/Circle024/CAR_02_4_092
+        weight: 1
+      - path: Circle025/Circle024/CAR_03_4_092
+        weight: 1
+      - path: Circle025/Circle024/CAR_SLOPE_01_012
+        weight: 1
+      - path: Circle025/Circle024/Circle023
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone034(mirrored)001
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone034(mirrored)001/Bone035(mirrored)001
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone034(mirrored)001/Bone035(mirrored)001/Bone036(mirrored)001
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone034(mirrored)001/Bone035(mirrored)001/Bone036(mirrored)001/Bone040(mirrored)001
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone038(mirrored)001
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone038(mirrored)001/Bone039(mirrored)001
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone056
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone056/Bone057
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone056/Bone057/Bone058
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone056/Bone057/Bone058/Bone059
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone060
+        weight: 1
+      - path: Circle025/Circle024/Circle023/Bone060/Bone061
+        weight: 1
+      - path: Circle025/Circle024/Object173
+        weight: 1
+      - path: Circle025/Circle024/Object177
+        weight: 1
+      - path: Circle025/Circle024/Object178
+        weight: 1
+      - path: Circle025/Circle024/Object183
+        weight: 1
+      - path: Circle025/Circle024/Object184
+        weight: 1
+      - path: Circle025/Circle024/Object193
+        weight: 1
+      - path: Circle025/Circle024/Object196
+        weight: 1
+      - path: Circle025/Circle024/Star001
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle003
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle004
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028/Bone029
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028/Bone029/Bone030
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028(mirrored)/Bone029(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028(mirrored)/Bone029(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028(mirrored)/Bone029(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone020/Bone021/Bone028(mirrored)/Bone029(mirrored)/Bone030(mirrored)/Bone031(mirrored)/Bone032(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024/Bone025
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024/Bone025/Bone026
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024(mirrored)/Bone025(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024(mirrored)/Bone025(mirrored)/Bone026(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Bone019/Bone024(mirrored)/Bone025(mirrored)/Bone026(mirrored)/Bone027(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Circle006
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Circle006/Circle007
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Circle006/Circle007/Circle010
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Circle006/Circle007/Circle010/Bone022
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Circle005/Circle006/Circle007/Circle010/Bone022/Bone023
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034/Bone035
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034/Bone035/Bone036
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034/Bone035/Bone036/Bone040
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034(mirrored)/Bone035(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034(mirrored)/Bone035(mirrored)/Bone036(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone034(mirrored)/Bone035(mirrored)/Bone036(mirrored)/Bone040(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone038
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone038/Bone039
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone038(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Circle011/Rectangle006/Bone038(mirrored)/Bone039(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star001/Object198
+        weight: 1
+      - path: Circle025/Circle024/Star002
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone044/Bone045/Bone046
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051/Bone052/Bone053/Bone054/Bone055
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)/Bone053(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)/Bone053(mirrored)/Bone054(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone042/Bone043/Bone051(mirrored)/Bone052(mirrored)/Bone053(mirrored)/Bone054(mirrored)/Bone055(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047/Bone048
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047(mirrored)/Bone048(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047(mirrored)/Bone048(mirrored)/Bone049(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Circle016/Circle012/Bone041/Bone047(mirrored)/Bone048(mirrored)/Bone049(mirrored)/Bone050(mirrored)
+        weight: 1
+      - path: Circle025/Circle024/Star002/Object197
+        weight: 1
+      - path: Plane010
+        weight: 1
+      - path: Plane011
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 9bc0e96c70844b141a752841276aadb3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone062
+    100002: Bone062(mirrored)
+    100004: Bone063
+    100006: Bone063(mirrored)
+    100008: Bone064
+    100010: Bone064(mirrored)
+    100012: Bone065
+    100014: Bone065(mirrored)
+    100016: Bone066
+    100018: Bone067
+    100020: Bone068
+    100022: Bone069
+    100024: Bone070
+    100026: Bone071
+    100028: Bone072
+    100030: Bone072(mirrored)
+    100032: Bone073
+    100034: Bone073(mirrored)
+    100036: Bone074
+    100038: Bone074(mirrored)
+    100040: Bone075
+    100042: Bone075(mirrored)
+    100044: Bone076
+    100046: Bone076(mirrored)
+    100048: Circle026
+    100050: MEHRIBAN
+    100052: //RootNode
+    100054: Star003
+    400000: Bone062
+    400002: Bone062(mirrored)
+    400004: Bone063
+    400006: Bone063(mirrored)
+    400008: Bone064
+    400010: Bone064(mirrored)
+    400012: Bone065
+    400014: Bone065(mirrored)
+    400016: Bone066
+    400018: Bone067
+    400020: Bone068
+    400022: Bone069
+    400024: Bone070
+    400026: Bone071
+    400028: Bone072
+    400030: Bone072(mirrored)
+    400032: Bone073
+    400034: Bone073(mirrored)
+    400036: Bone074
+    400038: Bone074(mirrored)
+    400040: Bone075
+    400042: Bone075(mirrored)
+    400044: Bone076
+    400046: Bone076(mirrored)
+    400048: Circle026
+    400050: MEHRIBAN
+    400052: //RootNode
+    400054: Star003
+    4300000: MEHRIBAN
+    7400000: mehriban_land
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: MEHRIBAN
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mehriban_land
+      takeName: Take 001
+      firstFrame: 2616
+      lastFrame: 2646
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MEHRIBAN
+        weight: 1
+      - path: Star003
+        weight: 1
+      - path: Star003/Circle026
+        weight: 1
+      - path: Star003/Circle026/Bone066
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062/Bone063
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062/Bone063/Bone064
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062/Bone063/Bone064/Bone065
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)/Bone063(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)/Bone063(mirrored)/Bone064(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)/Bone063(mirrored)/Bone064(mirrored)/Bone065(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone069
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone069/Bone070
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone069/Bone070/Bone071
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073/Bone074
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073/Bone074/Bone075
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073/Bone074/Bone075/Bone076
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)/Bone074(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)/Bone074(mirrored)/Bone075(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)/Bone074(mirrored)/Bone075(mirrored)/Bone076(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: c15fa54707a84034a95ba54b11af8e5c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone062
+    100002: Bone062(mirrored)
+    100004: Bone063
+    100006: Bone063(mirrored)
+    100008: Bone064
+    100010: Bone064(mirrored)
+    100012: Bone065
+    100014: Bone065(mirrored)
+    100016: Bone066
+    100018: Bone067
+    100020: Bone068
+    100022: Bone069
+    100024: Bone070
+    100026: Bone071
+    100028: Bone072
+    100030: Bone072(mirrored)
+    100032: Bone073
+    100034: Bone073(mirrored)
+    100036: Bone074
+    100038: Bone074(mirrored)
+    100040: Bone075
+    100042: Bone075(mirrored)
+    100044: Bone076
+    100046: Bone076(mirrored)
+    100048: Circle016
+    100050: Circle026
+    100052: Cylinder016
+    100054: Cylinder018
+    100056: Cylinder020
+    100058: Cylinder021
+    100060: Cylinder022
+    100062: Cylinder023
+    100064: //RootNode
+    100066: MEHRIBAN
+    100068: Object207
+    100070: Object208
+    100072: Object210
+    100074: Object211
+    100076: Object212
+    100078: Object213
+    100080: Rectangle009
+    100082: Star002
+    100084: Star003
+    100086: MEHRIBAN_SHADOW
+    100088: SKY
+    400000: Bone062
+    400002: Bone062(mirrored)
+    400004: Bone063
+    400006: Bone063(mirrored)
+    400008: Bone064
+    400010: Bone064(mirrored)
+    400012: Bone065
+    400014: Bone065(mirrored)
+    400016: Bone066
+    400018: Bone067
+    400020: Bone068
+    400022: Bone069
+    400024: Bone070
+    400026: Bone071
+    400028: Bone072
+    400030: Bone072(mirrored)
+    400032: Bone073
+    400034: Bone073(mirrored)
+    400036: Bone074
+    400038: Bone074(mirrored)
+    400040: Bone075
+    400042: Bone075(mirrored)
+    400044: Bone076
+    400046: Bone076(mirrored)
+    400048: Circle016
+    400050: Circle026
+    400052: Cylinder016
+    400054: Cylinder018
+    400056: Cylinder020
+    400058: Cylinder021
+    400060: Cylinder022
+    400062: Cylinder023
+    400064: //RootNode
+    400066: MEHRIBAN
+    400068: Object207
+    400070: Object208
+    400072: Object210
+    400074: Object211
+    400076: Object212
+    400078: Object213
+    400080: Rectangle009
+    400082: Star002
+    400084: Star003
+    400086: MEHRIBAN_SHADOW
+    400088: SKY
+    2300000: Cylinder016
+    2300002: Cylinder018
+    2300004: Cylinder020
+    2300006: Cylinder021
+    2300008: Cylinder022
+    2300010: Cylinder023
+    2300012: Object207
+    2300014: Object208
+    2300016: Object210
+    2300018: Object211
+    2300020: Object212
+    2300022: Object213
+    2300024: MEHRIBAN_SHADOW
+    2300026: SKY
+    3300000: Cylinder016
+    3300002: Cylinder018
+    3300004: Cylinder020
+    3300006: Cylinder021
+    3300008: Cylinder022
+    3300010: Cylinder023
+    3300012: Object207
+    3300014: Object208
+    3300016: Object210
+    3300018: Object211
+    3300020: Object212
+    3300022: Object213
+    3300024: MEHRIBAN_SHADOW
+    3300026: SKY
+    4300000: Cylinder023
+    4300002: MEHRIBAN
+    4300004: Object207
+    4300006: Object208
+    4300008: Object212
+    4300010: Object211
+    4300012: Cylinder016
+    4300014: Cylinder018
+    4300016: Cylinder020
+    4300018: Cylinder021
+    4300020: Cylinder022
+    4300022: Object210
+    4300024: Object213
+    4300026: SKY
+    4300028: MEHRIBAN_SHADOW
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: MEHRIBAN
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1701
+      lastFrame: 2285
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: MEHRIBAN
+        weight: 1
+      - path: Object207
+        weight: 1
+      - path: Object207/Object208
+        weight: 1
+      - path: Object207/Object208/Object212
+        weight: 1
+      - path: Object207/Object211
+        weight: 1
+      - path: Object210
+        weight: 1
+      - path: Object213
+        weight: 1
+      - path: SKY
+        weight: 1
+      - path: Star002
+        weight: 1
+      - path: Star002/Circle016
+        weight: 1
+      - path: Star002/Circle016/Rectangle009
+        weight: 1
+      - path: Star002/Circle016/Rectangle009/Cylinder023
+        weight: 1
+      - path: Star003
+        weight: 1
+      - path: Star003/Circle026
+        weight: 1
+      - path: Star003/Circle026/Bone066
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062/Bone063
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062/Bone063/Bone064
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062/Bone063/Bone064/Bone065
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)/Bone063(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)/Bone063(mirrored)/Bone064(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone062(mirrored)/Bone063(mirrored)/Bone064(mirrored)/Bone065(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone069
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone069/Bone070
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone069/Bone070/Bone071
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073/Bone074
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073/Bone074/Bone075
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072/Bone073/Bone074/Bone075/Bone076
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)/Bone074(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)/Bone074(mirrored)/Bone075(mirrored)
+        weight: 1
+      - path: Star003/Circle026/Bone066/Bone067/Bone068/Bone072(mirrored)/Bone073(mirrored)/Bone074(mirrored)/Bone075(mirrored)/Bone076(mirrored)
+        weight: 1
+      - path: Star003/MEHRIBAN_SHADOW
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

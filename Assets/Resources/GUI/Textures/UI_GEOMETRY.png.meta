@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: 4030921ee022c104a8f1a651b09b3853
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GUI_ATLAS_PRIMARY_0
+    21300002: GUI_ATLAS_PRIMARY_1
+    21300004: GUI_MENU_SHOP_BTN
+    21300006: GUI_MENU_SHOP_BTN_PRESSED
+    21300008: GUI_ATLAS_PRIMARY_4
+    21300010: GUI_ATLAS_PRIMARY_5
+    21300012: GUI_ATLAS_PRIMARY_6
+    21300014: GUI_ATLAS_PRIMARY_7
+    21300016: GUI_ATLAS_PRIMARY_8
+    21300018: GUI_ATLAS_PRIMARY_9
+    21300020: GUI_ATLAS_PRIMARY_10
+    21300022: GUI_ATLAS_PRIMARY_11
+    21300024: GUI_ATLAS_PRIMARY_12
+    21300026: GUI_ATLAS_PRIMARY_13
+    21300028: GUI_ATLAS_PRIMARY_14
+    21300030: GUI_ATLAS_PRIMARY_15
+    21300032: GUI_ATLAS_PRIMARY_16
+    21300034: GUI_ATLAS_PRIMARY_17
+    21300036: GUI_ATLAS_PRIMARY_18
+    21300038: GUI_ATLAS_PRIMARY_19
+    21300040: GUI_ATLAS_PRIMARY_20
+    21300042: GUI_ATLAS_PRIMARY_21
+    21300044: GUI_ATLAS_PRIMARY_22
+    21300046: GUI_ATLAS_PRIMARY_23
+    21300048: GUI_ATLAS_PRIMARY_24
+    21300050: GUI_ATLAS_PRIMARY_25
+    21300052: GUI_ATLAS_PRIMARY_26
+    21300054: GUI_ATLAS_PRIMARY_27
+    21300056: GUI_ATLAS_PRIMARY_28
+    21300058: GUI_ATLAS_PRIMARY_29
+    21300060: GUI_ATLAS_PRIMARY_30
+    21300062: GUI_ATLAS_PRIMARY_31
+    21300064: GUI_ATLAS_PRIMARY_32
+    21300066: GUI_ATLAS_PRIMARY_33
+    21300068: GUI_ATLAS_PRIMARY_34
+    21300070: GUI_ATLAS_PRIMARY_35
+    21300072: GUI_ATLAS_PRIMARY_36
+    21300074: GUI_ATLAS_PRIMARY_37
+    21300076: GUI_ATLAS_PRIMARY_38
+    21300078: GUI_ATLAS_PRIMARY_39
+    21300080: GUI_ATLAS_PRIMARY_40
+    21300082: GUI_ATLAS_PRIMARY_41
+    21300084: GUI_ATLAS_PRIMARY_42
+    21300086: GUI_ATLAS_PRIMARY_43
+    21300088: GUI_ATLAS_PRIMARY_44
+    21300090: GUI_ATLAS_PRIMARY_45
+    21300092: GUI_ATLAS_PRIMARY_46
+    21300094: GUI_ATLAS_PRIMARY_47
+    21300096: GUI_ATLAS_PRIMARY_48
+    21300098: GUI_ATLAS_PRIMARY_49
+    21300100: GUI_ATLAS_PRIMARY_50
+    21300102: GUI_ATLAS_PRIMARY_51
+    21300104: GUI_ATLAS_PRIMARY_52
+    21300106: GUI_ATLAS_PRIMARY_53
+    21300108: GUI_ATLAS_PRIMARY_55
+    21300110: GUI_ATLAS_PRIMARY_56
+    21300112: GUI_ATLAS_PRIMARY_57
+    21300114: GUI_ATLAS_PRIMARY_58
+    21300116: GUI_ATLAS_PRIMARY_59
+    21300118: GUI_ATLAS_PRIMARY_60
+    21300120: GUI_ATLAS_PRIMARY_61
+    21300122: GUI_ATLAS_PRIMARY_62
+    21300124: GUI_ATLAS_PRIMARY_63
+    21300126: GUI_ATLAS_PRIMARY_64
+    21300128: GUI_ATLAS_PRIMARY_65
+    21300130: GUI_ATLAS_PRIMARY_66
+    21300132: GUI_ATLAS_PRIMARY_67
+    21300134: GUI_ATLAS_PRIMARY_68
+    21300136: GUI_ATLAS_PRIMARY_68
+    21300138: GUI_ATLAS_PRIMARY_69
+    21300140: GUI_ATLAS_PRIMARY_70
+    21300142: GUI_ATLAS_PRIMARY_71
+    21300144: GUI_ATLAS_PRIMARY_72
+    21300146: GUI_ATLAS_PRIMARY_73
+    21300148: GUI_ATLAS_PRIMARY_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 0
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GUI_ATLAS_PRIMARY_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_MENU_SHOP_BTN
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_MENU_SHOP_BTN_PRESSED
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1862
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1802
+        width: 913
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_5
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1681
+        width: 154
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+    - name: GUI_ATLAS_PRIMARY_6
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1839
+        width: 159
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+    - name: GUI_ATLAS_PRIMARY_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1676
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1482
+        width: 913
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 713
+        width: 175
+        height: 1118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 85, y: 75, z: 85, w: 75}
+    - name: GUI_ATLAS_PRIMARY_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1490
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1304
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_21
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1206
+        width: 279
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 128, y: 122, z: 128, w: 122}
+    - name: GUI_ATLAS_PRIMARY_22
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 800
+        width: 246
+        height: 670
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 795
+        width: 283
+        height: 674
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_24
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 761
+        width: 46
+        height: 703
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+    - name: GUI_ATLAS_PRIMARY_25
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 736
+        width: 84
+        height: 741
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_29
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1119
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 934
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 748
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_38
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 612
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 55, y: 0, z: 52, w: 0}
+    - name: GUI_ATLAS_PRIMARY_39
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 573
+        width: 248
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 186, y: 0, z: 53, w: 0}
+    - name: GUI_ATLAS_PRIMARY_40
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 573
+        width: 243
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 169, y: 0, z: 53, w: 0}
+    - name: GUI_ATLAS_PRIMARY_41
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 573
+        width: 247
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 182, y: 0, z: 52, w: 0}
+    - name: GUI_ATLAS_PRIMARY_42
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 495
+        width: 185
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 127, y: 0, z: 38, w: 0}
+    - name: GUI_ATLAS_PRIMARY_43
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 444
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 444
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_45
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 444
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_46
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 444
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_47
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 444
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 394
+        width: 185
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 127, y: 0, z: 38, w: 0}
+    - name: GUI_ATLAS_PRIMARY_49
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 351
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 209
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 209
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 210
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_53
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 218
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_55
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 209
+        width: 296
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 29
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 29
+        width: 513
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_58
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_59
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_60
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_61
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_62
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_63
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 44
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_64
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 127
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_65
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 122
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_66
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 29
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_67
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 29
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_68
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 447
+        width: 158
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 98, y: 0, z: 43, w: 0}
+    - name: GUI_ATLAS_PRIMARY_68
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 563
+        width: 240
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 187, y: 0, z: 48, w: 0}
+    - name: GUI_ATLAS_PRIMARY_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 559
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 559
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1016
+        width: 230
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_72
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 830
+        width: 231
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_ATLAS_PRIMARY_73
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 447
+        width: 158
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 106, y: 0, z: 44, w: 0}
+    - name: GUI_ATLAS_PRIMARY_74
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 329
+        width: 296
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

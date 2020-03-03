@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: f151b4b3ebd287a47b9920e2a76b9951
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CATRigHead001
+    100002: CATRigHead002
+    100004: CATRigLArm1
+    100006: CATRigLArm2
+    100008: CATRigLArmCollarbone
+    100010: CATRigLArmPalm
+    100012: CATRigLLeg1
+    100014: CATRigLLeg2
+    100016: CATRigLLegAnkle
+    100018: CATRigRArm1
+    100020: CATRigRArm2
+    100022: CATRigRArmCollarbone
+    100024: CATRigRArmPalm
+    100026: CATRigRLeg1
+    100028: CATRigRLeg2
+    100030: CATRigRLegAnkle
+    100032: CATRigSpine1
+    100034: CATRigSpine2
+    100036: CATRigSpine3
+    100038: COP
+    100040: //RootNode
+    100042: Base HumanHead
+    100044: Base HumanLCalf
+    100046: Base HumanLCollarbone
+    100048: Base HumanLFoot
+    100050: Base HumanLForearm
+    100052: Base HumanLPalm
+    100054: Base HumanLPlatform
+    100056: Base HumanLThigh
+    100058: Base HumanLUpperarm
+    100060: Base HumanNeck1
+    100062: Base HumanNeck2
+    100064: Base HumanPelvis
+    100066: Base HumanRCalf
+    100068: Base HumanRCollarbone
+    100070: Base HumanRFoot
+    100072: Base HumanRForearm
+    100074: Base HumanRibcage
+    100076: Base HumanRPalm
+    100078: Base HumanRPlatform
+    100080: Base HumanRThigh
+    100082: Base HumanRUpperarm
+    100084: Base HumanSpine1
+    100086: Base HumanSpine2
+    100088: Base HumanSpine3
+    100090: Base HumanSpine4
+    100092: Bone019
+    100094: Bone020
+    100096: Bone021
+    100098: Bone022
+    100100: Bone023
+    100102: Bone024
+    100104: Bone024(mirrored)
+    100106: Bone025
+    100108: Bone025(mirrored)
+    100110: Bone026
+    100112: Bone026(mirrored)
+    100114: Bone027
+    100116: Bone027(mirrored)
+    100118: Bone028
+    100120: Bone028(mirrored)
+    100122: Bone029
+    100124: Bone029(mirrored)
+    100126: Bone030
+    100128: Bone030(mirrored)
+    100130: Bone031
+    100132: Bone031(mirrored)
+    100134: Bone032
+    100136: Bone032(mirrored)
+    100138: CHARACTER_CHASER
+    100140: Circle003
+    100142: Circle004
+    100144: Circle005
+    100146: Circle006
+    100148: Circle007
+    100150: Circle010
+    100152: Circle011
+    100154: Object198
+    100156: Star001
+    400000: CATRigHead001
+    400002: CATRigHead002
+    400004: CATRigLArm1
+    400006: CATRigLArm2
+    400008: CATRigLArmCollarbone
+    400010: CATRigLArmPalm
+    400012: CATRigLLeg1
+    400014: CATRigLLeg2
+    400016: CATRigLLegAnkle
+    400018: CATRigRArm1
+    400020: CATRigRArm2
+    400022: CATRigRArmCollarbone
+    400024: CATRigRArmPalm
+    400026: CATRigRLeg1
+    400028: CATRigRLeg2
+    400030: CATRigRLegAnkle
+    400032: CATRigSpine1
+    400034: CATRigSpine2
+    400036: CATRigSpine3
+    400038: COP
+    400040: //RootNode
+    400042: Base HumanHead
+    400044: Base HumanLCalf
+    400046: Base HumanLCollarbone
+    400048: Base HumanLFoot
+    400050: Base HumanLForearm
+    400052: Base HumanLPalm
+    400054: Base HumanLPlatform
+    400056: Base HumanLThigh
+    400058: Base HumanLUpperarm
+    400060: Base HumanNeck1
+    400062: Base HumanNeck2
+    400064: Base HumanPelvis
+    400066: Base HumanRCalf
+    400068: Base HumanRCollarbone
+    400070: Base HumanRFoot
+    400072: Base HumanRForearm
+    400074: Base HumanRibcage
+    400076: Base HumanRPalm
+    400078: Base HumanRPlatform
+    400080: Base HumanRThigh
+    400082: Base HumanRUpperarm
+    400084: Base HumanSpine1
+    400086: Base HumanSpine2
+    400088: Base HumanSpine3
+    400090: Base HumanSpine4
+    400092: Bone019
+    400094: Bone020
+    400096: Bone021
+    400098: Bone022
+    400100: Bone023
+    400102: Bone024
+    400104: Bone024(mirrored)
+    400106: Bone025
+    400108: Bone025(mirrored)
+    400110: Bone026
+    400112: Bone026(mirrored)
+    400114: Bone027
+    400116: Bone027(mirrored)
+    400118: Bone028
+    400120: Bone028(mirrored)
+    400122: Bone029
+    400124: Bone029(mirrored)
+    400126: Bone030
+    400128: Bone030(mirrored)
+    400130: Bone031
+    400132: Bone031(mirrored)
+    400134: Bone032
+    400136: Bone032(mirrored)
+    400138: CHARACTER_CHASER
+    400140: Circle003
+    400142: Circle004
+    400144: Circle005
+    400146: Circle006
+    400148: Circle007
+    400150: Circle010
+    400152: Circle011
+    400154: Object198
+    400156: Star001
+    2300000: CATRigHead001
+    2300002: CATRigHead002
+    2300004: CATRigLArm1
+    2300006: CATRigLArm2
+    2300008: CATRigLArmCollarbone
+    2300010: CATRigLArmPalm
+    2300012: CATRigLLeg1
+    2300014: CATRigLLeg2
+    2300016: CATRigLLegAnkle
+    2300018: CATRigRArm1
+    2300020: CATRigRArm2
+    2300022: CATRigRArmCollarbone
+    2300024: CATRigRArmPalm
+    2300026: CATRigRLeg1
+    2300028: CATRigRLeg2
+    2300030: CATRigRLegAnkle
+    2300032: CATRigSpine1
+    2300034: CATRigSpine2
+    2300036: CATRigSpine3
+    2300038: Base HumanHead
+    2300040: Base HumanLCalf
+    2300042: Base HumanLCollarbone
+    2300044: Base HumanLFoot
+    2300046: Base HumanLForearm
+    2300048: Base HumanLPalm
+    2300050: Base HumanLThigh
+    2300052: Base HumanLUpperarm
+    2300054: Base HumanNeck1
+    2300056: Base HumanNeck2
+    2300058: Base HumanPelvis
+    2300060: Base HumanRCalf
+    2300062: Base HumanRCollarbone
+    2300064: Base HumanRFoot
+    2300066: Base HumanRForearm
+    2300068: Base HumanRibcage
+    2300070: Base HumanRPalm
+    2300072: Base HumanRThigh
+    2300074: Base HumanRUpperarm
+    2300076: Base HumanSpine1
+    2300078: Base HumanSpine2
+    2300080: Base HumanSpine3
+    2300082: Base HumanSpine4
+    2300084: Object198
+    3300000: CATRigHead001
+    3300002: CATRigHead002
+    3300004: CATRigLArm1
+    3300006: CATRigLArm2
+    3300008: CATRigLArmCollarbone
+    3300010: CATRigLArmPalm
+    3300012: CATRigLLeg1
+    3300014: CATRigLLeg2
+    3300016: CATRigLLegAnkle
+    3300018: CATRigRArm1
+    3300020: CATRigRArm2
+    3300022: CATRigRArmCollarbone
+    3300024: CATRigRArmPalm
+    3300026: CATRigRLeg1
+    3300028: CATRigRLeg2
+    3300030: CATRigRLegAnkle
+    3300032: CATRigSpine1
+    3300034: CATRigSpine2
+    3300036: CATRigSpine3
+    3300038: Base HumanHead
+    3300040: Base HumanLCalf
+    3300042: Base HumanLCollarbone
+    3300044: Base HumanLFoot
+    3300046: Base HumanLForearm
+    3300048: Base HumanLPalm
+    3300050: Base HumanLThigh
+    3300052: Base HumanLUpperarm
+    3300054: Base HumanNeck1
+    3300056: Base HumanNeck2
+    3300058: Base HumanPelvis
+    3300060: Base HumanRCalf
+    3300062: Base HumanRCollarbone
+    3300064: Base HumanRFoot
+    3300066: Base HumanRForearm
+    3300068: Base HumanRibcage
+    3300070: Base HumanRPalm
+    3300072: Base HumanRThigh
+    3300074: Base HumanRUpperarm
+    3300076: Base HumanSpine1
+    3300078: Base HumanSpine2
+    3300080: Base HumanSpine3
+    3300082: Base HumanSpine4
+    3300084: Object198
+    4300000: COP
+    4300002: CATRigHead001
+    4300004: CATRigLLeg1
+    4300006: CATRigLLeg2
+    4300008: CATRigLLegAnkle
+    4300010: CATRigRLeg1
+    4300012: CATRigRLeg2
+    4300014: CATRigRLegAnkle
+    4300016: CATRigSpine1
+    4300018: CATRigSpine2
+    4300020: CATRigSpine3
+    4300022: CATRigHead002
+    4300024: CATRigLArmCollarbone
+    4300026: CATRigLArm1
+    4300028: CATRigLArm2
+    4300030: CATRigLArmPalm
+    4300032: CATRigRArmCollarbone
+    4300034: CATRigRArm1
+    4300036: CATRigRArm2
+    4300038: CATRigRArmPalm
+    4300040: Base HumanPelvis
+    4300042: Base HumanLThigh
+    4300044: Base HumanLCalf
+    4300046: Base HumanLFoot
+    4300048: Base HumanRThigh
+    4300050: Base HumanRCalf
+    4300052: Base HumanRFoot
+    4300054: Base HumanSpine1
+    4300056: Base HumanSpine2
+    4300058: Base HumanSpine3
+    4300060: Base HumanSpine4
+    4300062: Base HumanRibcage
+    4300064: Base HumanLCollarbone
+    4300066: Base HumanLUpperarm
+    4300068: Base HumanLForearm
+    4300070: Base HumanLPalm
+    4300072: Base HumanRCollarbone
+    4300074: Base HumanRUpperarm
+    4300076: Base HumanRForearm
+    4300078: Base HumanRPalm
+    4300080: Base HumanNeck1
+    4300082: Base HumanNeck2
+    4300084: Base HumanHead
+    4300086: CHARACTER_CHASER
+    4300088: Object198
+    7400000: chaser_run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: COP
+    13700002: CHARACTER_CHASER
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: chaser_run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHead001
+        weight: 1
+      - path: CATRigHead001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHead001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHead001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHead001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHead001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHead001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigLArmCollarbone
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigLArmCollarbone/CATRigLArm1
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigLArmCollarbone/CATRigLArm1/CATRigLArm2
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigLArmCollarbone/CATRigLArm1/CATRigLArm2/CATRigLArmPalm
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigRArmCollarbone
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigRArmCollarbone/CATRigRArm1
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2/CATRigRArmPalm
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigSpine3
+        weight: 1
+      - path: CATRigHead001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigHead002
+        weight: 1
+      - path: COP
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
